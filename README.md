@@ -2,7 +2,7 @@
   
 # 実行  
 ```
-stack exec project-ext
+stack exec project-exe
 ```
 
 
